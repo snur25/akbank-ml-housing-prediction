@@ -133,6 +133,10 @@ Bu proje, California'daki ev fiyatlarını makine öğrenmesi algoritmalarıyla 
 - Git ve Github
 - Doküman yazma
 
+### Kaggle Linki
+
+https://www.kaggle.com/code/nisanur1/california-housing-price-prediction
+
 ## Sonuç ve Değerlendirme
 
 Bu proje, gerçek dünya veri seti kullanarak machine learning ile geliştirme deneyimi sağladı.
